@@ -39,9 +39,9 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-git clone https://github.com/Milansaji/Emergency_app_Useless_project.git
-cd Emergency_app_Useless_project
-flutter pub get
+- git clone https://github.com/Milansaji/Emergency_app_Useless_project.git
+- cd Emergency_app_Useless_project
+- flutter pub get
 
 # Run
 flutter run
@@ -58,13 +58,13 @@ pubspec.yaml
 
 # Screenshots (Add at least 3)
 ![WhatsApp Image 2025-08-09 at 4 57 52 PM](https://github.com/user-attachments/assets/b4b2f556-955c-4247-86bf-1e4cef20e859)
-   Home Screen of the application helps to select the emergency and the siren button
+- Home Screen of the application helps to select the emergency and the siren button
 
 ![WhatsApp Image 2025-08-09 at 4 57 52 PM(1)](https://github.com/user-attachments/assets/aff662c9-94b8-4a31-ad02-d3d52efb6229)
-Emergency dialling screen
+- Emergency dialling screen
 
 ![WhatsApp Image 2025-08-09 at 4 57 52 PM(2)](https://github.com/user-attachments/assets/cca8d2af-b917-4d80-ae0b-12de28dbd724)
-Relaxing veeena soundd
+- Relaxing veena sound
 
 # Diagrams
 
@@ -88,8 +88,8 @@ https://github.com/user-attachments/assets/4ed6aea0-e390-448c-b831-12571a7cede6
 
 
 ## Team Contributions
-- [MIlan Saji]: [Build the APP using flutter]
-- [Melvin Sabu]: [design the theme idea test the app and documentation ]
+- Milan Saji: Build the APP using flutter
+- Melvin varghese Sabu: design the theme idea test the app and documentation 
 
 
 ---
