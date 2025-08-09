@@ -30,67 +30,67 @@ An app that takes your urgent cry for help, dials the emergency number… and th
 For Software:
 - Dart
 - Flutter
-- Google fonts,audio player
-- 
+- Google fonts
+- audio player
+  
 For Hardware:
 - android phone
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+git clone https://github.com/Milansaji/Emergency_app_Useless_project.git
+cd Emergency_app_Useless_project
+flutter pub get
 
 # Run
-[commands]
+flutter run
 
 ### Project Documentation
 For Software:
+lib/
+ └── main.dart         
+assets/
+ └── audio/
+     └── veena.mp3     
+pubspec.yaml            
+
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-09 at 4 57 52 PM](https://github.com/user-attachments/assets/b4b2f556-955c-4247-86bf-1e4cef20e859)
+   Home Screen of the application helps to select the emergency and the siren button
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-09 at 4 57 52 PM(1)](https://github.com/user-attachments/assets/aff662c9-94b8-4a31-ad02-d3d52efb6229)
+Emergency dialling screen
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![WhatsApp Image 2025-08-09 at 4 57 52 PM(2)](https://github.com/user-attachments/assets/cca8d2af-b917-4d80-ae0b-12de28dbd724)
+Relaxing veeena soundd
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
+<img width="1536" height="1024" alt="ChatGPT Image Aug 9, 2025, 05_04_49 PM" src="https://github.com/user-attachments/assets/50a0ef27-31a5-4193-b6a6-8d2b75166df1" />
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
+https://github.com/user-attachments/assets/4ed6aea0-e390-448c-b831-12571a7cede6
+
+
+
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [MIlan Saji]: [Build the APP using flutter]
+- [Melvin Sabu]: [design the theme idea test the app and documentation ]
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
